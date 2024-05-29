@@ -1,0 +1,4 @@
+baseURL = 'https://dix.dev/'
+languageCode = 'en-gb'
+title = 'dixdotdev'
+theme = 'PaperMod'

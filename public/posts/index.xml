@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on dixdotdev</title>
+    <link>https://dix.dev/posts/</link>
+    <description>Recent content in Posts on dixdotdev</description>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 29 May 2024 16:05:42 +0100</lastBuildDate>
+    <atom:link href="https://dix.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trying out Hugo</title>
+      <link>https://dix.dev/posts/my-first-post/</link>
+      <pubDate>Wed, 29 May 2024 16:05:42 +0100</pubDate>
+      <guid>https://dix.dev/posts/my-first-post/</guid>
+      <description>Testing Hugo This is a test post to see how Hugo works.
+It uses markdown to generate the content.
+This is bold and this is italic.
+Links are also supported, click here.</description>
+    </item>
+  </channel>
+</rss>
